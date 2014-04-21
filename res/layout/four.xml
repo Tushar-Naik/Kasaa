@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+        <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+       
+    <TextView
+        android:id="@+id/head"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CONTACTS"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:typeface="serif" />
+
+    <TextView
+        android:id="@+id/name1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:paddingLeft="12dp" />
+    <TextView
+        android:id="@+id/d1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="17dp"
+        android:paddingLeft="15dp" />
+    <TextView
+        android:id="@+id/add1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="20dp"
+        android:textSize="15dp"
+        android:text="" />
+    <TextView
+        android:id="@+id/ph1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="20dp"
+        android:textSize="17dp"
+        android:text=""
+        android:autoLink="phone|email|web" />
+  
+    <TextView
+        android:id="@+id/name2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:paddingLeft="12dp" />
+    <TextView
+        android:id="@+id/d2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="17dp"
+        android:paddingLeft="15dp" />
+    <TextView
+        android:id="@+id/add2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="20dp"
+        android:textSize="15dp"
+        android:text="" />
+    <TextView
+        android:id="@+id/ph2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="20dp"
+        android:textSize="17dp"
+        android:text=""
+        android:autoLink="phone|email|web" />
+    
+    <TextView
+        android:id="@+id/name3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:paddingLeft="12dp" />
+    <TextView
+        android:id="@+id/d3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="17dp"
+        android:paddingLeft="15dp" />
+    <TextView
+        android:id="@+id/add3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="20dp"
+        android:textSize="15dp"
+        android:text="" />
+    <TextView
+        android:id="@+id/ph3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="20dp"
+        android:textSize="17dp"
+        android:text=""
+        android:autoLink="phone|email|web" />
+    
+    <TextView
+        android:id="@+id/name4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:paddingLeft="12dp" />
+    <TextView
+        android:id="@+id/d4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="17dp"
+        android:paddingLeft="15dp" />
+    <TextView
+        android:id="@+id/add4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="20dp"
+        android:textSize="15dp"
+        android:text="" />
+    <TextView
+        android:id="@+id/ph4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="20dp"
+        android:textSize="17dp"
+        android:text=""
+        android:autoLink="phone|email|web" />
+    
+    <TextView
+        android:id="@+id/name5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:paddingLeft="12dp" />
+    <TextView
+        android:id="@+id/d5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="17dp"
+        android:paddingLeft="15dp" />
+    <TextView
+        android:id="@+id/add5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="20dp"
+        android:textSize="15dp"
+        android:text="" />
+    <TextView
+        android:id="@+id/ph5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="20dp"
+        android:textSize="17dp"
+        android:text=""
+        android:autoLink="phone|email|web" />
+    
+
+ </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

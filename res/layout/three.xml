@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <Button
+                android:id="@+id/link1"
+                android:layout_width="match_parent"
+                android:layout_height="90dp"
+                android:background="#FFFFFF"
+                android:text="Koramangala 3rd Block 8th C Main Raheja Residency Spot Fix Part 1"
+                android:textColor="#0000FF"
+                android:textSize="18dp" />
+
+            <Button
+                android:id="@+id/link2"
+                android:layout_width="match_parent"
+                android:layout_height="90dp"
+                android:background="#FFFFFF"
+                android:text="Koramangala 3rd Block - WoW - Wealth Off Waste - Story"
+                android:textColor="#0000FF"
+                android:textSize="18dp" />
+
+            <Button
+                android:id="@+id/link3"
+                android:layout_width="match_parent"
+                android:layout_height="90dp"
+                android:background="#FFFFFF"
+                android:text="Garbage Central - Bangalore"
+                android:textColor="#0000FF"
+                android:textSize="18dp" />
+
+            <Button
+                android:id="@+id/link4"
+                android:layout_width="match_parent"
+                android:layout_height="90dp"
+                android:background="#FFFFFF"
+                android:text="How to Compost in an Apartment"
+                android:textColor="#0000FF"
+                android:textSize="18dp" />
+
+            <Button
+                android:id="@+id/link5"
+                android:layout_width="match_parent"
+                android:layout_height="90dp"
+                android:background="#FFFFFF"
+                android:text="Organic waste composting units"
+                android:textColor="#0000FF"
+                android:textSize="18dp" />
+
+            <Button
+                android:id="@+id/link6"
+                android:layout_width="match_parent"
+                android:layout_height="90dp"
+                android:background="#FFFFFF"
+                android:text="BBMP - Bangalore Garbage Segregation Movie"
+                android:textColor="#0000FF"
+                android:textSize="18dp" />
+
+            <Button
+                android:id="@+id/link7"
+                android:layout_width="match_parent"
+                android:layout_height="90dp"
+                android:background="#FFFFFF"
+                android:text="BBMP Commissioner Rajneesh Goel talking about Waste Management"
+                android:textColor="#0000FF"
+                android:textSize="18dp" />
+
+            <Button
+                android:id="@+id/link8"
+                android:layout_width="match_parent"
+                android:layout_height="90dp"
+                android:background="#FFFFFF"
+                android:text="Household Waste Segregation Drive - Mantri Tranquil Apts, Bangalore"
+                android:textColor="#0000FF"
+                android:textSize="18dp" />
+
+            <Button
+                android:id="@+id/link9"
+                android:layout_width="match_parent"
+                android:layout_height="90dp"
+                android:background="#FFFFFF"
+                android:text="Garbage Segregation Process at Purva Riviera"
+                android:textColor="#0000FF"
+                android:textSize="18dp" />
+
+            <Button
+                android:id="@+id/link10"
+                android:layout_width="match_parent"
+                android:layout_height="90dp"
+                android:background="#FFFFFF"
+                android:text="Solid Waste Management Mess In Bangalore"
+                android:textColor="#0000FF"
+                android:textSize="18dp" 
+                />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

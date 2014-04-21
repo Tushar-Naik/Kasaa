@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Kasaa</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="q1">1: What do you mean by waste segregation?</string>
+    <string name="q2">2: Why should I do it?</string>
+    <string name="q3">3: How do I practice waste management at home?</string>
+    <string name="q4">4: What is Dry Waste?</string>
+    <string name="q5">5: What do I do with old clothes/ shoes/ handbags/belts/toys?</string>
+    <string name="q6">6: What is the best method of storing Dry Waste?</string>
+    <string name="a1">Waste segregation basically means keeping wet and dry wastes separately, so that dry can be e</string>
+    <string name="a2">1. So that it reduces waste that gets landfilled and reduces pollution to air and water</string>
+    <string name="a3">1. Keep separate containers for dry and wet waste in the kitchen</string>
+    
+
+</resources>
