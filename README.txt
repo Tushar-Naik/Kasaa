@@ -14,5 +14,5 @@
 	This section consists of all the information you need of the required authorities-BBMP officials and NGO's.
 
 5.How to use
-	This section.
+	This section contains details about how to use the app.
 	
